@@ -4,7 +4,7 @@
 
 using namespace System;
 
-int main(array<System::String ^> ^args)
+int main2(array<System::String ^> ^args)
 {
     Console::WriteLine(L"Hello World");
     return 0;
