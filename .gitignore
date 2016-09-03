@@ -5,7 +5,7 @@
 *.suo
 *.user
 *.userosscache
-*.sln.docstates
+#*.sln.docstates -sven
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -249,7 +249,7 @@ paket-files/
 
 # JetBrains Rider
 .idea/
-*.sln.iml
+#*.sln.iml -sven
 
 # =========================
 # Operating System Files
@@ -302,6 +302,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 github_test2/MyForm_old.h
-github_test2/github_test2.cpp
 github_test2/github_test2.cpp
 github_test2/MyForm_again.cpp
